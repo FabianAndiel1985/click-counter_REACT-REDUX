@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/click_counter-REACT-REDUX/static/css/main.5f361e03.chunk.css",
+    "main.js": "/click_counter-REACT-REDUX/static/js/main.c15de97a.chunk.js",
+    "main.js.map": "/click_counter-REACT-REDUX/static/js/main.c15de97a.chunk.js.map",
+    "runtime-main.js": "/click_counter-REACT-REDUX/static/js/runtime-main.2b47bcae.js",
+    "runtime-main.js.map": "/click_counter-REACT-REDUX/static/js/runtime-main.2b47bcae.js.map",
+    "static/js/2.051b7fd3.chunk.js": "/click_counter-REACT-REDUX/static/js/2.051b7fd3.chunk.js",
+    "static/js/2.051b7fd3.chunk.js.map": "/click_counter-REACT-REDUX/static/js/2.051b7fd3.chunk.js.map",
+    "index.html": "/click_counter-REACT-REDUX/index.html",
+    "precache-manifest.622ec27480b614e00a8e807d1c70749e.js": "/click_counter-REACT-REDUX/precache-manifest.622ec27480b614e00a8e807d1c70749e.js",
+    "service-worker.js": "/click_counter-REACT-REDUX/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/click_counter-REACT-REDUX/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.051b7fd3.chunk.js.LICENSE.txt": "/click_counter-REACT-REDUX/static/js/2.051b7fd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b47bcae.js",
+    "static/js/2.051b7fd3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c15de97a.chunk.js"
+  ]
+}
